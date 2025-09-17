@@ -3,5 +3,5 @@ numpy
 pandas
 matplotlib
 seaborn
-sklearn
+scikit-learn
 torch
